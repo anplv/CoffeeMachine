@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Coffee Machine (Kotlin)/*
+!/Coffee Machine (Kotlin)/task/
+/Coffee Machine (Kotlin)/task/*
+!/Coffee Machine (Kotlin)/task/src
+
+# Project exclude paths
+/Topics/Property accessors/Weather comparison/out/
+/Topics/Property accessors/Weather comparison/out/production/classes/
